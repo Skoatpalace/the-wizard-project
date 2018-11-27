@@ -7,7 +7,7 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-	<bean id="Outfit" class="fr.wildcodeschool.thewizardproject.models.Outfit">
+	<bean id="outfit" class="fr.wildcodeschool.thewizardproject.models.Outfit">
     </bean>
     
     <bean id="theWizard" class="fr.wildcodeschool.thewizardproject.models.Dumbledore">
